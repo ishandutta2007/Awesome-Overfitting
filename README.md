@@ -8,7 +8,8 @@ This entire response is provided directly in standard GitHub-Flavoured **Markdow
 ## 1. Core Architectural & Pipeline Blueprint
 
 ```mermaid
-[System Input Context] ───> [Fused Processing Matrix] ───> [Optimized Action Tensor]
+flowchart LR
+    A[System Input Context] --> B[Fused Processing Matrix] --> C[Optimized Action Tensor]
 ```
 
 *   **Syntax Integrity Block:** Every section leverages native structural Markdown tags (e.g., `#` headers, `*` bulleted fragments, and `$$` LaTeX mathematical wrappers) to ensure compatibility with static repository rendering blocks.
