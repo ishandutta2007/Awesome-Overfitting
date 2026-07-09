@@ -1,11 +1,15 @@
-# Awesome-Overfitting
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Overfitting Banner" width="100%">
+</div>
+
+# 🚀 Awesome-Overfitting
 ## 
 
 This entire response is provided directly in standard GitHub-Flavoured **Markdown (.md) syntax** block formatting to match your repository architecture constraints.
 
 ---
 
-## 1. Core Architectural & Pipeline Blueprint
+## 🏗️ 1. Core Architectural & Pipeline Blueprint
 
 ```mermaid
 flowchart LR
@@ -18,7 +22,7 @@ flowchart LR
 
 ---
 
-## 2. Technical Operations Comparison Matrix
+## 📊 2. Technical Operations Comparison Matrix
 
 | Algorithmic Paradigm | Time Complexity | Memory Footprint | Network Overhead | Boundary Security |
 | :--- | :--- | :--- | :--- | :--- |
@@ -28,7 +32,7 @@ flowchart LR
 
 ---
 
-## 3. High-Capacity Infrastructure Execution Paths
+## ⚡ 3. High-Capacity Infrastructure Execution Paths
 
 *   **Vector Matrix Tiling:** Fused Triton kernels execute steps entirely inside fast on-chip GPU SRAM registers.
 *   **Paged Memory Sharding:** Virtual block tables map logical inputs to disjointed physical VRAM slots dynamically.
